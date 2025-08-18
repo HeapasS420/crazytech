@@ -1,0 +1,13 @@
+name = "Insane's Survival Extra (aka IguanaTweaks Expanded)"
+filename = "InsaneSurvivalExtra-1.27.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7da5182515e08245d7958aeb7ca1ad982b7c3a5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6856191
+project-id = 926157

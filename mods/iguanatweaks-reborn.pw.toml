@@ -1,0 +1,13 @@
+name = "Insane's Survival Overhaul (aka IguanaTweaks Reborn)"
+filename = "iguanatweaksreborn-4.19.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f9d909e7ce40c45912e8aef1d50efad4aa25624"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6864781
+project-id = 285690

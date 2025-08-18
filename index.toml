@@ -1,0 +1,485 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Combat/Player Stats/players_attribute_modifiers.json"
+hash = "ca604da0ddab85ecd4c0118093012a49c7094873c293283bee60c637da9fd3ad"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Experience/Enchanting/enchantments_data.json"
+hash = "a68f590ed979f8a9976f7a19ef700d2a6cbdb14a28380d0c635c56b1f42034d3"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Experience/Enchanting/over_level_enchantment_blacklist.json"
+hash = "1b9350e61150320f922737fa8bfeb6cbba52d10f1ba971fd5c5485bd6447b51e"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Experience/Enchanting/starting_enchantments.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Experience/Enchantments/disabled_enchantments.json"
+hash = "110d57ac29d89f46dea69b5231e8e8b6c171664a6cb797ccebcc6d1c5bd71162"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Hunger & Health/Foods & Drinks/food_properties.json"
+hash = "aef6fe9874b09e1cfbf0a846d71643045d83b1d5cc0b72b365670208003b1f98"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Mining/Block Hardness/depth_multipliers.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Mining/Block Hardness/dimension_hardness.json"
+hash = "019db549dcb4123edd0972dc498e448e3bc4f77a9a1f0a40ae06408127e8ad7e"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Miscellaneous/Beacon & Conduit/beacon_blocks_ranges.json"
+hash = "1fa118b0b9a22798be88c15fd9e1410f004618da9d72d165f6e97ff162f03b29"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Miscellaneous/Beacon & Conduit/beacon_effects.json"
+hash = "e8fabf84edd8152c7beb6f02c32dfd29ab432184a4678e0e04db8c894abde7a5"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Miscellaneous/Beacon & Conduit/beacon_payment_times.json"
+hash = "3f8d0267d7c4c2046589411f58b38116281479254cb38bb98a74e08862337b2d"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Mobs/Equipment/custom_drop_chances.json"
+hash = "8930f98f5e7fb0d77b0982f813b5ff943b8ab65bd8a1251deb73821ce03ece40"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Mobs/Season spawning/season_settings.json"
+hash = "6ce71bbaeaca7eebf5e42140e36e25c4cc730f71d94f2a6d3cba1d9341293e8b"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Mobs/Wandering Trades/buying_trades.json"
+hash = "cd1f9d4b14a1ccabe5b753b74059f722a91b8c2c55322f03a2f9a7f95b816ddb"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Mobs/Wandering Trades/generic_trades.json"
+hash = "e84ac9224ba2075ec6200bd3ffb34812bce8cb041db93ec9ce730c81c3f250b6"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Mobs/Wandering Trades/rare_trades.json"
+hash = "d29df46c8204c40de1e415ad14ec177d91d3c8d9243de4a94fe6d677343beefd"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Movement/Terrain Slowdown/custom_in_terrain_slowdown.json"
+hash = "d5f29eb1dfaf5cabc8d41984062eab52ecbcf0cf7ae6a5aa294dffba22e8f075"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Movement/Terrain Slowdown/custom_terrain_slowdown.json"
+hash = "35f64e2111babef37e5b9201f0db2713a53ba043e93c9608eb18c928c9a64871"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Sleep & Respawn/Respawn/respawn_obelisk_catalysts.json"
+hash = "b6b56b1fce652e28d625d2e893e85279ecbc69d01de72c948dea8b5a0e5bae8f"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Sleep & Respawn/Respawn/respawn_obelisk_effects.json"
+hash = "7451a9d8af732cab06f07b6122c24087ce58f5d596003752cf35f84ccb2dcbe3"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Sleep & Respawn/Sleeping Effects/effects_on_wake_up.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/Sleep & Respawn/Tiredness/energy_boost_items.json"
+hash = "32c979979e0aa67fbece41ad36ef60d85d11eff4f57aef58b71787985845a15a"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/World/Seasons/grass_growth_decay.json"
+hash = "7a5e7ef3cf32beeb384f39fe2aa63f8b909645c400c78c2f3cf181e6bbf1d959"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/World/Spawners/fixed_spawners_spawnable.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/World/Timber Trees/tree_info.json"
+hash = "52f48de6bbce0477428a5f7b2a34fa33cff0aa5f14fe87d6ae7eb82b2e5cc12d"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/client.toml"
+hash = "e3603d466b99abdab6b1d476e85364f3627f02d00450a37ad7226677b25a73a3"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/common.toml"
+hash = "97a7990c73cb2ab0665ae8b6a5c4d966016e4be84cf6de0ba91ef40e18011925"
+
+[[files]]
+file = "config/insanesurvivaloverhaul/expanded-common.toml"
+hash = "5866c8be9f4cc7a2570560fe5cd59723b2228cc559fe83e83280e1dbd27a7cb5"
+
+[[files]]
+file = "kubejs/data/iguanatweaksreborn/block_definitions/custom_hardness/stone/flint_rock.json"
+hash = "36b4db60cbd1f29286d40af8021e153a1c8adff647dc2b75862e03733a635108"
+
+[[files]]
+file = "kubejs/data/iguanatweaksreborn/worldgen/configured_feature/flint_rock.json"
+hash = "71ddaa809546c8643d22d9c563261fb48ac63bc2799420b4115376501fa3144e"
+
+[[files]]
+file = "kubejs/data/iguanatweaksreborn/worldgen/placed_feature/flint_rock.json"
+hash = "116753a17f76379c3d15aef7cfb1c3787b498e78b070b2634d4e94991fefd7b9"
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-core.pw.toml"
+hash = "26f3fd1bdaab9f0f5ce3741f1bd70ccac7b7b1ee079f7223b893554d5ebe8940"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-gamerules.pw.toml"
+hash = "8ad5f5817cbe5ca76ba9078902c40d249f1d3a183d9c7b9863e2cd261da9ea41"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-items.pw.toml"
+hash = "bed1b16389b7f88c006a8de3bbba3f736af7c5d6c58219a561c17dab3252b78c"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-player.pw.toml"
+hash = "c09b7f023710dc5fd414a6bc8b86c38ad784f10ba43956d7cfc6d4653d1d8200"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
+hash = "b962924ce66ca14ad9869f5c22578c92781c190da6fefb233de3b3de6d2a6375"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks.pw.toml"
+hash = "901b6328e955729a5a9100779dd38c113598e8f1e3c0c65fff72ba5a564b9177"
+metafile = true
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "fd2fdb3da53dff2cb463625ce20c7471cbd074382b3c3e8ff65834690451c912"
+metafile = true
+
+[[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "067c72c78318b03c01b6d35aff74135ef1c969425e471efe777dce7a174c7005"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "c2d7012f0e742a51b05e497878edf9ca54a9d8c6e852955f1f3a3ea5919fed63"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "03d143a3507e525e5553cab391fd8c4d27b445164dc299501dd1f2678fbfb23f"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
+metafile = true
+
+[[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "3177bf3a49a3ccb0c8608c75caa43399425bbcf4c1b2bd729af15bb12fb75d58"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7d3fded0a343b2953e2a77fd1d2ed7abc547d7008f5b1b842546f28b8df1b802"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "42f8bc7c7fd090a12032f172c87c3a681e0c84e2042bfcb85bf071b831a2fc01"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
+
+[[files]]
+file = "mods/crafting-station-improved.pw.toml"
+hash = "2280f4db67a42c81e6618b7dc30c4bdc598579aeb4be617b968bdc33e66fb1c8"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "e392ff51b7a6280006d633dde678e5ced8ae5a65035a42c213dd6386d234c394"
+metafile = true
+
+[[files]]
+file = "mods/crashexploitfixer.pw.toml"
+hash = "ccfd58d3e1d8f0465865fa3fd8df11e489b218032315f2b6f1a7e5161a30ec20"
+metafile = true
+
+[[files]]
+file = "mods/detected-setblock-be-gone.pw.toml"
+hash = "3155502f39959b150a27893ef4005e430275b6d873012c719198306cabd6ba39"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "8f2270a50a633db681826cbfb691e6efdb25e1e0c4702125c13d525b52fe229f"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e5650ca09fdb53d1c197b4b7d000c432a566c559381106edeee0e2abc2ce1cd0"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "64f7ff38d1d2b074d18eb83b1d9b5b08bb389472202ccd86ed60eb9a56b23c5a"
+metafile = true
+
+[[files]]
+file = "mods/fastboot.pw.toml"
+hash = "d29b6a0cc5aa2d6402337f7545e89271b095a9ddab686e921d793afb5d1883ce"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "a828c60907bd972cb75263bce3bd6bacfb31b98ccb3d5556ad10c7be81258e5d"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "8e4615ae5f9c5e2573545c74bbd6d540164ba4af804bafa417901b349a806680"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "4646bb5a4309f549c3d37c4d56db379df35128bd16efd200444efe4bd63b995d"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "3c35fc94cc89a4a1f2803ddc98fd0f530874d9d3950072f283428d48359f4c06"
+metafile = true
+
+[[files]]
+file = "mods/iguanatweaks-expanded.pw.toml"
+hash = "34ca4f98e6d55eaa9eb964ca24ef4b3cd94ca9e257aae6c7e2c0f29a0a775443"
+metafile = true
+
+[[files]]
+file = "mods/iguanatweaks-reborn.pw.toml"
+hash = "d18c1c3ad236d4f1ad7d3cd3244bc265ab4f7420f2e38929ca9ceaefe2dfcde0"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "591082f1380a5542d2d1acb537d8d53ee26b5492a0b757d086729e926465eca8"
+metafile = true
+
+[[files]]
+file = "mods/insanelib.pw.toml"
+hash = "6fa873dbb177a05742c49c9e8869ded4df106e715d575675175276c1dd5c8b84"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "ea0ef7ce8408969645b2cc4033807273b34a51facf3fa4080a4b796629a3a7f0"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "8f359d190506a6f824763b8e7c390d9e22204ef11e3ffa5ef980000d17e2c2b6"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "5f7c3cf35124bf96e880cc8562fc44ac15990a89b07db299aed9a88ce3752cb1"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
+metafile = true
+
+[[files]]
+file = "mods/legendary-survival-overhaul.pw.toml"
+hash = "a70fb852b14e0dfb7052274d0dcad6c42f5ab369c55b1fb1153b2239a24f7b3f"
+metafile = true
+
+[[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "644607a28024fbb4115884962a09cb4621217f652aacd363f7a2df52ddb69862"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "e8ffbf5788712fac841e1bb0bff8969697f99be47d6f1c3f41ebe9ac965016d3"
+metafile = true
+
+[[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "c8c25cccf1f0c3aaa0a5639f28f40d61b4eadd3130558b39ce6c279b8b775556"
+metafile = true
+
+[[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "a433c965c277b4f3b89606b2e87c56545bca0c42568e5ee0e75962628ddd939e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "7172839c89fed8a57db7ea0fca1bf4305e2c76e15f2277a9e66e6c9aaace4374"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "8de8d0ef6c5c087ee7c7c028928edcef86527e84a927cef5defb4a7219bf21c5"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "cc83aa838038bc43e9db3a173b15740108d2c3a38c1398c3a8ed9efd63faa2dd"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "2748f5043b9b2068ffb8cc41cb22d1483a7c41d973bca545422e78e862e5cdf3"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "fd180c540dd4d1ee0b3dab2000218aaa8012ebeea79114f6c7630157dc086187"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
+metafile = true
+
+[[files]]
+file = "mods/project-vibrant-journeys.pw.toml"
+hash = "9376f6519de3bbf6a86cc1fc911c80357767633cf83f7e0da68cdc1959e3dd3f"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+metafile = true
+
+[[files]]
+file = "mods/shieldsplus.pw.toml"
+hash = "9d6a32582eab37238bac2d6032fb717322a72ff30d7f5c838f79c4fe78ab238e"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "8b001d223c2458eed8970eb699974cb73d93b75c6ceee62b5f61be85913b98ac"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "5240c62752415b5d66d4beffec4fe98c253eba8ebcbb2a5c1097fc3ad3de0b00"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "eb48e8709268d9d4daeaba8d8844fa47e4e42fe2c6767ab39eca10e7852abf1e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "8c1d85564af53d61caf23b502b60c494d33450a670093fdd3e2f412368682ecc"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
+metafile = true
+
+[[files]]
+file = "mods/ytech.pw.toml"
+hash = "d0d4c5af9b15a830f70fab9f4d5200a3be3fb5aac8df59e87a0359693c4d1a07"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Shields+"
+filename = "shieldsplus-1.12.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e7da6d16877e9b3124a353f7517a05ec3109132"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6777962
+project-id = 646906

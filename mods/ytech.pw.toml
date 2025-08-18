@@ -1,0 +1,13 @@
+name = "YTech"
+filename = "ytech-1.20.1-0.10.6-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd9aac0c14ad7761f82949537ac46e8ec2cf12d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6616815
+project-id = 917366
